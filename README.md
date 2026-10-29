@@ -1,10 +1,10 @@
-# AI-Enabled-Visa-Status-Prediction-and-Processing-Time-Estimator
+# Machine-Learning-System-for-Visa-Approval-Prediction-and-Processing-Time-Estimation
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 
 ## 📝 Description
 
-AI-Enabled Visa Status Prediction and Processing Time Estimator is a sophisticated Python-based application designed to bring transparency and predictability to the immigration process. By leveraging advanced machine learning algorithms, the tool analyzes historical data patterns to predict the likelihood of visa approval and provides realistic estimates for processing timelines. This solution empowers applicants and legal professionals with data-driven insights, helping to mitigate the uncertainty and stress often associated with international travel and relocation planning.
+Machine-Learning-System-for-Visa-Approval-Prediction-and-Processing-Time-Estimation is a sophisticated Python-based application designed to bring transparency and predictability to the immigration process. By leveraging advanced machine learning algorithms, the tool analyzes historical data patterns to predict the likelihood of visa approval and provides realistic estimates for processing timelines. This solution empowers applicants and legal professionals with data-driven insights, helping to mitigate the uncertainty and stress often associated with international travel and relocation planning.
 
 ## 🛠️ Tech Stack
 
