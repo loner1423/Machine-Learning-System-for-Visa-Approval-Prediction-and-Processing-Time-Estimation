@@ -24,11 +24,11 @@ except:
     df_dashboard = None
 
 st.set_page_config(layout="wide")
-st.title("🌍 AI Visa Processing Time Predictor")
+st.title("🌍 ML Visa Processing Time Predictor")
 
 st.markdown("""
 ### ✨ About This Project
-This AI-powered system predicts visa processing time using historical data and machine learning.
+This ML-powered system predicts visa processing time using historical data and machine learning.
 
 🔍 **What it does:**
 - Estimates processing time based on country, visa type, and application date
